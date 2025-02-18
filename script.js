@@ -1,4 +1,3 @@
-//your JS code here. If required.
 // Get all square elements
 const squares = document.querySelectorAll('.square');
 
